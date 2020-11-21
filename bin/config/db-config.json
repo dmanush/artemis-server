@@ -1,0 +1,7 @@
+{
+    "artemis-db" : {
+        "db-path" : "/Users/dmitrymanushin/artemis",
+        "db-port" : "8888",
+        "db-users" : []
+    }
+}

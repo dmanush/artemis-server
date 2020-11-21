@@ -1,0 +1,22 @@
+{
+  "name": "artemis-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "artemis-server": "index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "config": "^3.3.2",
+    "ip": "^1.1.5",
+    "websocket": "^1.0.32",
+    "ws": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
